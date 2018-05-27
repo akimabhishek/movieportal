@@ -1,0 +1,17 @@
+com\test\movieportal\dao\MainTableDao.class
+com\test\movieportal\dao\MoviePortalDao.class
+com\test\movieportal\service\MoviePortalService.class
+com\test\movieportal\entity\MainTable.class
+com\test\movieportal\dao\ActorsPortalDaoImpl.class
+com\test\movieportal\entity\Actors.class
+com\test\movieportal\service\MoviePortalServiceImpl.class
+com\test\movieportal\service\MainTableService.class
+com\test\movieportal\controller\MainController.class
+com\test\movieportal\dao\MoviePortalDaoImpl.class
+com\test\movieportal\dao\ActorsPortalDao.class
+com\test\movieportal\service\ActorsPortalServiceImpl.class
+com\test\movieportal\service\MainTableServiceImpl.class
+com\test\movieportal\entity\Movie.class
+com\test\movieportal\dao\MainTableDaoImpl.class
+com\test\movieportal\service\ActorsPortalService.class
+com\test\movieportal\entity\Producer.class
